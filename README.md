@@ -24,8 +24,4 @@ Since MediSphereAR is an AR-based project, its full potential can best be apprec
 3. Use an iOS device to scan the provided sample QR codes to experience the AR content.
 4. For the best experience, use an AR-compatible device to interact with the 3D models and animations.
 
-**•	Contributions**
-
-We welcome contributions from the community to improve and expand MediSphereAR. Please feel free to fork the repository, submit pull requests, or raise issues.
-
 For any questions or further information, please refer to the contact details provided in the repository. Thank you for your interest in MediSphereAR!
