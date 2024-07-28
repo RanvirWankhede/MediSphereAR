@@ -1,13 +1,13 @@
 MediSphereAR
-Welcome to the MediSphereAR GitHub repository! This project leverages Augmented Reality (AR) to revolutionize the way medical and anatomical education is delivered. Our platform provides immersive, 3D visualizations of human anatomy, enhancing comprehension and engagement for students, educators, and professionals in the healthcare industry.
+Welcome to the MediSphereAR GitHub repository! This project leverages Augmented Reality (AR) to revolutionize the way medical and anatomical education is delivered. Our platform provides immersive, 3D visualizations of human anatomy, enhancing comprehension and engagement for students, educators and professionals in the healthcare industry.
 
 **•	Repository Contents**
 
-1. Interface Website Code: The front-end code for the MediSphereAR website, designed to provide users with easy access to information, downloads, and resources.
+1. Interface Website Code: The front-end code for the MediSphereAR website, designed to provide users with easy access to information, downloads and resources.
    
-2. Interface App Code: The codebase for the mobile application, which serves as the primary interface for interacting with the AR content. This app includes features like 3D model viewing, interactive animations, and educational overlays.
+2. Interface App Code: The codebase for the mobile application, which serves as the primary interface for interacting with the AR content. This app includes features like 3D model viewing, interactive animations and educational overlays.
 
-3. User Manual PDF: A comprehensive guide on how to set up and use MediSphereAR, including technical requirements, installation instructions, and troubleshooting tips.
+3. User Manual PDF: A comprehensive guide on how to set up and use MediSphereAR, including technical requirements, installation instructions and troubleshooting tips.
 
 4. Images and Videos of Working Prototype: Visual documentation showcasing the functionality and features of MediSphereAR. These materials are particularly useful for those unable to experience the AR features in person.
 
